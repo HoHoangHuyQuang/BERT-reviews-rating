@@ -1,2 +1,3 @@
 # BERT-reviews-rating
-Electronic prooduct reviews rating on E-commerce website 
+
+Apply the PhoBERT model in combination with LSTM and mBERT combined with LSTM to analyze customers' emotions based on evaluation data, comments on the ordering process, delivery, sales service and quality of products are computer components, phones, Smart watches are collected on e-commerce websites such as Tiki, Shopee, FPT Shop....
